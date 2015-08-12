@@ -1,12 +1,11 @@
-title: Vida
 # Name of your site (displayed in the header)
-name: Your Name
+name: Ctrl+V
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://www.i2clipart.com/cliparts/0/b/7/a/clipart-glue-0b7a.png
 baseurl: ""
 
 date_format: "%Y-%m-%d"
