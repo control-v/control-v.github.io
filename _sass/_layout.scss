@@ -4,10 +4,6 @@ main {
     margin: 0 auto 3rem;
     padding: 0 2rem;
 }
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $color-silver;
@@ -16,7 +12,6 @@ main {
     text-align: center;
   }
 }
-
 .site-avatar {
   float: left;
   width: 70px;
@@ -33,7 +28,6 @@ main {
     border-radius: 5px;
   }
 }
-
 .site-info {
   float: left;
 
@@ -43,7 +37,6 @@ main {
     margin: 0 auto;
   }
 }
-
 .site-name {
   margin: 0;
   cursor: pointer;
@@ -51,7 +44,6 @@ main {
   font-size: 28px;
   letter-spacing: 1px;
 }
-
 .site-description {
   margin: -5px 0 0 0;
   color: $color-gray;
@@ -61,7 +53,6 @@ main {
     margin: 3px 0;
   }
 }
-
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
