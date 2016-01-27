@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: github-pages
+tag: math
 permalink: /tag/math/
 --- 
