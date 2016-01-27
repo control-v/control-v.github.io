@@ -2,7 +2,7 @@
 layout: post
 title:  A Thought Catalogue
 date:   2016-01-24 22:33:00
-tags: [personal, math]
+tags: [personal]
 ---
 
 I used to have this terrible old website I’d made after watching a few YouTube tutorials. It had a space-y background I’d made in Paint, and at the top it had my name in shiny blue WordArt. I added a bunch of random stuff to it, like a log-in at the top that was completely nonfunctional and obnoxious marquee text. I’d employed the best security measures: a JavaScript snippet that would create a pop-up alert if you tried to right click on the page. Occasionally I’d make three sentence posts about whatever I was up to at the time. I guess 6th grade me didn’t have much to talk about, because I only updated it five times. After winter break was over, I forgot about it.
