@@ -1,4 +1,4 @@
-personal:
+- slug: personal
   name: personal
-math:
+- slug: math
   name: math
