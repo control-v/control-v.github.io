@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 $base-font-family: Merriweather, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   24px;
 $small-font-size:  0.875rem;
 $base-line-height: 1.5;
 
@@ -20,7 +20,7 @@ $border-color: #ddd;
   }
 }
 
-@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,700);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700);
 @import "color";
 @import "base";
 @import "layout";
